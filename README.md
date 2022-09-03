@@ -1,3 +1,27 @@
+### Responsive NFT MarketPlace||Website Modern||Design
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=30&width=1000&duration=6969&lines=HEY+WELCOME+I'm+TMCyber+[FULL+Stack+Developer]!)](https://git.io/typing-svg)
+
+
+[![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=WORDPRESS)](https://www.tmcybers.com/)
+[![Website](https://img.shields.io/badge/-MEDIUM-orange?style=for-the-badge&logo=MEDIUM)](https://medium.com/@tmcybers)
+[![Website](https://img.shields.io/badge/-TWITTER-yellow?style=for-the-badge&logo=TWITTER)](https://twitter.com/TMerisan)
+[![Website](https://img.shields.io/badge/-KEYBASE-red?style=for-the-badge&logo=KEYBASE)](https://keybase.io/tmcybers)
+[![Website](https://img.shields.io/badge/-WAKATIME-lightgrey?style=for-the-badge&logo=WAKATIME)](https://wakatime.com/@tmcyber)
+[![Website](https://img.shields.io/badge/-KO--FI-blue?style=for-the-badge&logo=KO-FI)](https://ko-fi.com/tmcyber)
+[![Website](https://img.shields.io/badge/-BUY%20MY%20SERVICES-orange?style=for-the-badge&logo=COFFEE)](https://github.com/sponsors/tmcybers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Consider+Support+me+on+Ko-Fi+++++++++++)](https://git.io/typing-svg)
+
+
+![Captura de pantalla de 2022-09-04 00-34-45](https://user-images.githubusercontent.com/97669969/188290629-f9d1b42c-dca0-4333-bad1-d3f309356a8a.png)
+
+
+https://user-images.githubusercontent.com/97669969/188290682-19192a64-4c3b-4ed6-aabc-030f1bf29d4f.mp4
+
+
+
+
 
 ### Responsive NFT MarketPlace||Website Modern||Design
 
